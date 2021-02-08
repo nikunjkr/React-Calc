@@ -1,3 +1,7 @@
+# React Calc
+
+![alt text](https://github.com/[nikunjkr]/[React-Calc]/blob/[main]/Capture.jpg?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
