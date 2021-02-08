@@ -1,6 +1,6 @@
 # React Calc
 
-![alt text](https://github.com/[nikunjkr]/[React-Calc]/blob/[main]/Capture.jpg?raw=true)
+![alt text](https://github.com/nikunjkr/React-Calc/blob/main/Capture.JPG?raw=true)
 
 # Getting Started with Create React App
 
